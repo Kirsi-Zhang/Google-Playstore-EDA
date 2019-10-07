@@ -1,4 +1,4 @@
-## Google Playstore EDA
+## Google Playstore Data Mining
 ### Data
 Web scraped data of 10k Play Store apps for analysing the Android market. 
 https://www.kaggle.com/lava18/google-play-store-apps
