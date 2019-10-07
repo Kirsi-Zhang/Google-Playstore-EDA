@@ -8,7 +8,7 @@ The Play Store apps data has enormous potential to drive app-making businesses t
 
 ### Approach
 Cleaned data, then explored 5 major variables: category, price, installs, reviews, ratings.
-Analysed the correlations of those variables. 
+Analyzed the correlations of those variables. 
 
 ### Conclusion
 + Top 5 categories: Family, Game, Tools, Finance, Productivity.
